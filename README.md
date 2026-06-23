@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kshubham5698/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/kshubham5698/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/kshubham5698/LeetCode/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kshubham5698/LeetCode/tree/master/0007-reverse-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/kshubham5698/LeetCode/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/kshubham5698/LeetCode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/kshubham5698/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
