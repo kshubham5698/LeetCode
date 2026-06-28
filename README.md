@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kshubham5698/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/kshubham5698/LeetCode/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/kshubham5698/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/kshubham5698/LeetCode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kshubham5698/LeetCode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/kshubham5698/LeetCode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -53,4 +55,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kshubham5698/LeetCode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/kshubham5698/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
