@@ -1,6 +1,8 @@
 class Solution {
     public int numberOfArithmeticSlices(int[] nums) {
-
+        if(nums.length < 3){
+            return 0;
+        }
         int[] dp = new int[nums.length];
         int total = 0;
          for(int i = 2; i < nums.length; i++){
