@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kshubham5698/LeetCode/tree/master/0007-reverse-integer) |
+| [0168-excel-sheet-column-title](https://github.com/kshubham5698/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/kshubham5698/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kshubham5698/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kshubham5698/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kshubham5698/LeetCode/tree/master/0049-group-anagrams) |
+| [0168-excel-sheet-column-title](https://github.com/kshubham5698/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [1108-defanging-an-ip-address](https://github.com/kshubham5698/LeetCode/tree/master/1108-defanging-an-ip-address) |
 ## Sorting
 |  |
