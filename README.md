@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kshubham5698/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/kshubham5698/LeetCode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/kshubham5698/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kshubham5698/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/kshubham5698/LeetCode/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/kshubham5698/LeetCode/tree/master/0413-arithmetic-slices) |
 ## Stack
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kshubham5698/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kshubham5698/LeetCode/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/kshubham5698/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0392-is-subsequence](https://github.com/kshubham5698/LeetCode/tree/master/0392-is-subsequence) |
 | [1108-defanging-an-ip-address](https://github.com/kshubham5698/LeetCode/tree/master/1108-defanging-an-ip-address) |
 ## Sorting
 |  |
